@@ -1,5 +1,4 @@
-FROM ubuntu:latest
-LABEL maintainer="wingnut0310 <wingnut0310@gmail.com>"
+FROM debian:latest
 
 ENV LANG en_US.UTF-8
 ENV LANGUAGE en_US:en
